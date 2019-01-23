@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>House Help Finder Template</title>
+	<link rel="stylesheet" href="/stylesheets/style.css" type="text/css">
+	<link rel="stylesheet" href="/stylesheets/bootstrap.min.css" type="text/css">
+</head>
+<body>
+
+{> "head"/}
+
+	{+body /}
+
+{>"foot"/}
+</body>
+</html>

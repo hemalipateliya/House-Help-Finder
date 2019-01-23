@@ -1,0 +1,70 @@
+{>"layout" /}
+{<body}
+	<div id="contents">
+		<div>
+			<form class="form-inline">
+      <fieldset>
+  <legend>Search Providers</legend>
+    
+        <div class="form-group">
+    <label for="inputPassword3" class="sr-only">Service Categories</label>
+    <div class="col-sm-10">
+       {> "services" /}
+    </div>
+  </div>
+
+    <div class="form-group">
+    <label for="inputPassword3" class="sr-only">Area</label>
+    <div class="col-sm-10">
+       {> "area" /}
+    </div>
+  </div>
+
+    <div class="form-group">
+    
+    <div class="col-sm-10">
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+  </div>
+
+  </fieldset>
+</form>
+		</div>
+
+    <div style="margin-top:40px;">
+      <legend>Provider List</legend>
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>
+              First Name
+            </th>
+            <th>
+              Last Name
+            </th>
+            <th>
+              Actions
+            </th>
+          </tr>
+
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              Abc
+            </td>
+            <td>
+              DEF
+            </td>
+            <td>
+                <button class="btn btn-primary">Contact</button>
+                <button class="btn btn-primary">Make Appointment</button>
+            </td>
+
+          </tr>
+        </tbody>
+      
+    </table>
+    </div>
+	</div>
+{/body}

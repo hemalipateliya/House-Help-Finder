@@ -1,0 +1,29 @@
+	<div id="header">
+		<div>
+			<div id="logo">
+				<h2>House Help Finder </h2>
+				
+			</div>
+			<ul class="navigation">
+				<li class="selected">
+					<a href="/">Home</a>
+				</li>
+				
+				<li>
+					<a href="search">Find</a>
+				</li>
+				<li>
+					<a href="contact-us">Contact Us</a>
+				</li>
+				<li>
+					<a href="register">Register</a>
+				</li>
+				<li>
+					<a href="changepassword">Change Password</a>
+				</li>
+				<li>
+					<a href="login">Login</a>
+				</li>
+			</ul>
+		</div>
+	</div>

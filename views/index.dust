@@ -1,0 +1,48 @@
+{>"layout" /}
+{<body}
+	<div id="contents">
+		<div>
+			<div class="body">
+				<div id="adbox">
+					<img src="images/home3.jpg" alt="Img"> 
+					<div class="details">
+						<h1>House Help Finder</h1><br> <h2>Find Trusted Home Improvement Pros....<br> </h2>
+						<p>
+							You can search for needed help based on your location.
+						</p>
+					</div>
+				</div>
+				<ul id="featured">
+					<li>
+						<div>
+							<img src="images/carpenter.jpg" alt="Img"> <a href="index.html"></a>
+						</div>
+						<div class="details">
+							<h3>Carpenter</h3>
+							
+						</div>
+					</li>
+					<li class="bedroom">
+						<div>
+							<img src="images/painter.jpg" alt="Img"> <a href="index.html"></a>
+						</div>
+						<div class="details">
+							<h3>Painter</h3>
+							
+						</div>
+					</li>
+					<li class="kitchen">
+						<div>
+							<img src="images/electrician.jpg" alt="Img"> <a href="index.html"></a>
+						</div>
+						<div class="details">
+							<h3>Electrician</h3>
+							
+						</div>
+					</li>
+				</ul>
+				
+			</div>
+		</div>
+	</div>
+{/body}

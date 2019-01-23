@@ -1,0 +1,13 @@
+<select class="form-control">
+	<option><strong>Please Select Service Category</strong></option>
+	<option><strong>Electrician</strong></option>
+	<option><strong>Painter</strong></option>
+	<option><strong>Carpenter</strong></option>
+	<option><strong>Security</strong></option>
+	<option><strong>Lock Smith</strong></option>
+	<option><strong>Driver</strong></option>
+	<option><strong>Gardener</strong></option>
+	<option><strong>Mechanic</strong></option>
+	<option><strong>Computer Technician</strong></option>
+	<option><strong>Hardware Technician</strong></option>
+</select>

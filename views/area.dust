@@ -1,0 +1,48 @@
+<select class="form-control">
+<option><strong>Please Select Area</strong></option>
+<option><strong>Bapu Nagar</strong></option>
+<option><strong>Prahlad Nagar</strong></option>
+<option><strong>C.G. Road</strong></option>
+<option><strong>S.G. Road</strong></option>
+<option><strong>Navrangpura</strong></option>
+<option><strong>Vastrapur</strong></option>
+<option><strong>Ashram Road</strong></option>
+<option><strong>Paldi</strong></option>
+<option><strong>Saraspur</strong></option>
+<option><strong><span id="IL_AD4" class="IL_AD">Satellite</span> Area</strong></option>
+<option><strong>Sarangpur Darwaza </strong></option>
+<option><strong>Ambawadi </strong></option>
+<option><strong>Ellis Bridge</strong></option>
+<option><strong>Ghatlodia</strong></option>
+<option><strong>Gulbai Tekra</strong></option>
+<option><strong>Gita Mandir Road</strong></option>
+<option><strong>Mem Nagar</strong></option>
+<option><strong>Naranpura</strong></option>
+<option><strong>University Area</strong></option>
+<option><strong>Mithakhali Six Roads</strong></option>
+<option><strong>Vadaj</strong></option>
+<option><strong>Vasana</strong></option>
+<option><strong>Naroda</strong></option>
+<option><strong>Narol</strong></option>
+<option><strong>Asarwa</strong></option>
+<option><strong>Meghani Nagar</strong></option>
+<option><strong>Ranip</strong></option>
+<option><strong>Bopal</strong></option>
+<option><strong>Sabarmati</strong></option>
+<option><strong>Shahibaug</strong></option>
+<option><strong>Astodia</strong></option>
+<option><strong>Dariapur</strong></option>
+<option><strong>Kadia</strong></option>
+<option><strong>Kalupur</strong></option>
+<option><strong>Lal Darwaza</strong></option>
+<option><strong>Raipur</strong></option>
+<option><strong>Shahpur</strong></option>
+<option><strong>Dani Limbada</strong></option>
+<option><strong>Jamalpur</strong></option>
+<option><strong>Kankaria</strong></option>
+<option><strong>Khokra Mehmedabad</strong></option>
+<option><strong>Odhav</strong></option>
+<option><strong>Maninagar</strong></option>
+<option><strong>Sanand<br>
+</strong></option>
+</select>
